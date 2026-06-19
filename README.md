@@ -21,9 +21,6 @@ This project analyzes Netflix dataset using Python, SQL, and Power BI.
 - TV-MA is the most common rating
 - Popular genres include Drama & International Movies
 
-##  Dashboard
-(Upload screenshot here)
-
 ##  How to Run
 1. Run Python notebook
 2. Import data into MySQL
